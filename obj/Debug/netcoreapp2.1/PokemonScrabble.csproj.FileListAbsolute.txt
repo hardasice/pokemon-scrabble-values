@@ -1,0 +1,11 @@
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\bin\Debug\netcoreapp2.1\PokemonScrabble.deps.json
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\bin\Debug\netcoreapp2.1\PokemonScrabble.runtimeconfig.json
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\bin\Debug\netcoreapp2.1\PokemonScrabble.runtimeconfig.dev.json
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\bin\Debug\netcoreapp2.1\PokemonScrabble.dll
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\bin\Debug\netcoreapp2.1\PokemonScrabble.pdb
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\obj\Debug\netcoreapp2.1\PokemonScrabble.csprojAssemblyReference.cache
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\obj\Debug\netcoreapp2.1\PokemonScrabble.csproj.CoreCompileInputs.cache
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\obj\Debug\netcoreapp2.1\PokemonScrabble.AssemblyInfoInputs.cache
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\obj\Debug\netcoreapp2.1\PokemonScrabble.AssemblyInfo.cs
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\obj\Debug\netcoreapp2.1\PokemonScrabble.dll
+C:\Users\Travis-iBP\source\repos\PokemonScrabble\PokemonScrabble\obj\Debug\netcoreapp2.1\PokemonScrabble.pdb
