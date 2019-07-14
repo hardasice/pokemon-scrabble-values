@@ -16,6 +16,7 @@ class MainClass
 
         // Order names by values
         var pokemonList = (from pokemon in pokemonScrabbleDict
+                           orderby pokemon.Key ascending
                            orderby pokemon.Value ascending
                            select pokemon).ToList();
 
